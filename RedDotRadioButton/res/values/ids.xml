@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <item name="main_content" type="id"></item>
+    
+    <item name="rb_1" type="id"></item>
+    <item name="rb_2" type="id"></item>
+    <item name="rb_3" type="id"></item>
+    <item name="rb_4" type="id"></item>
+    <item name="main_footer" type="id"></item>
+</resources>

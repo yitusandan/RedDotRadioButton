@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+     <declare-styleable name="RedDotRadioButton">
+        <attr name="src" format="reference" />
+        <attr name="visibility" format="boolean"/>
+        <attr name="drawableTop" format="reference"/>
+    </declare-styleable>
+    
+</resources>
